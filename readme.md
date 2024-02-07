@@ -1,6 +1,6 @@
-# Büyük Veri Teknolojileri
+# Havelsan - Büyük Veri Teknolojileri
 
-Bu repository Büyük Veri Teknolojileri dersi için oluşturulmuştur. 
+Bu repository Havelsan - Büyük Veri Teknolojileri dersi için oluşturulmuştur. 
 
 ## İçindekiler
  - MONGODB NEDİR?
