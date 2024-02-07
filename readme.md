@@ -3,8 +3,7 @@
 Bu repository Büyük Veri Teknolojileri dersi için oluşturulmuştur. 
 
 ## İçerik
-
-<img src="https://user-images.githubusercontent.com/58326260/178852509-172ccb09-fa87-48e7-9c0b-8a6e70783854.jpg" width="500" height="500"/>
+![Ekran görüntüsü 2024-02-07 205958](https://github.com/ahmetgurr/BigDataTechnologies/assets/92628011/cbb58635-ee97-46ea-ba61-fdaa42e12465)
 
 ## İçindekiler
  - MONGODB NEDİR?
