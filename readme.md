@@ -20,6 +20,10 @@ Bu repository Büyük Veri Teknolojileri dersi için oluşturulmuştur.
 | Recipes-App video |
 | ---------------------------- |
 
-[ekankaydirecipe.webm](https://github.com/ahmetgurr/RecipesApp/assets/92628011/23c6a8b4-aed9-4cdd-a97c-dcd7faa99d46)
+[ekankaydirecipe.webm](https://github.com/ahmetgurr/BigDataTechnologies/assets/92628011/e1e73989-07af-4f96-8bec-59df8d157bde)
+
+
+
+
 
 </br>
