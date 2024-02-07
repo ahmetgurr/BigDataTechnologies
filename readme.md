@@ -16,8 +16,6 @@ Bu repository Büyük Veri Teknolojileri dersi için oluşturulmuştur.
 ![Ekran görüntüsü 2024-02-07 205958](https://github.com/ahmetgurr/BigDataTechnologies/assets/92628011/cbb58635-ee97-46ea-ba61-fdaa42e12465)
  
  ## Video
- 
-| Recipes-App video |
 | ---------------------------- |
 
 [ekankaydirecipe.webm](https://github.com/ahmetgurr/BigDataTechnologies/assets/92628011/e1e73989-07af-4f96-8bec-59df8d157bde)
