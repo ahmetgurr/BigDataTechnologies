@@ -2,9 +2,6 @@
 
 Bu repository Büyük Veri Teknolojileri dersi için oluşturulmuştur. 
 
-## İçerik
-![Ekran görüntüsü 2024-02-07 205958](https://github.com/ahmetgurr/BigDataTechnologies/assets/92628011/cbb58635-ee97-46ea-ba61-fdaa42e12465)
-
 ## İçindekiler
  - MONGODB NEDİR?
  - MongoDB'nin Temel Özellikleri
@@ -13,7 +10,8 @@ Bu repository Büyük Veri Teknolojileri dersi için oluşturulmuştur.
  - MONGODB KURULUMU NASIL YAPILIR?
  - KODLAMALAR
  - PROJE ÖRNEĞİ
-
+   </br>
+![Ekran görüntüsü 2024-02-07 205958](https://github.com/ahmetgurr/BigDataTechnologies/assets/92628011/cbb58635-ee97-46ea-ba61-fdaa42e12465)
  
  ## Video
  
